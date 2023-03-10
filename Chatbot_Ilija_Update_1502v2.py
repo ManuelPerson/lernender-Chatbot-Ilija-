@@ -34,7 +34,7 @@ class Chatbot:
         elif input_text in ["Hallo", "Guten Tag", "Wer bist du ?", "Wer bist du?", "wer bist du?", "wer bist du ?", "Wie ist dein Name ?", "Wie ist dein Name?", "wie ist dein name?", "wie ist dein name ?"]:
             return "Hallo, meine Name ist Ilija, ich bin ein selbstlernender Chatbot. Was kann ich für dich tun ?"
         elif input_text in ["Wo kommst du her?", "wo kommst du her?", "Wo kommst du her ?", "wo kommst du her ?"]:
-            return "Ich komme aus Deutschland. Manuel Person hat mich entwickelt, damit Ich der Menschen dabei helfe Probleme zu lösen."
+            return "Ich komme aus Deutschland. Manuel Person hat mich entwickelt, damit Ich den Menschen dabei helfe Probleme zu lösen."
        
         else:
             response = openai.Completion.create(
