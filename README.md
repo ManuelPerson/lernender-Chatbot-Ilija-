@@ -1,2 +1,2 @@
 # lernender-Chatbot-Ilija-
-Hier wird ein Selbstlernender Chatbot namens Ilija entwickelt 
+# Hier wird ein selbstlernender Chatbot namens Ilija, mit OpenAI API-KEY entwickelt 
